@@ -16,4 +16,4 @@ site:
       path: hana-wiki-english
       draft: true
       content:
-        directory: ./hana-wiki-english
+        directory: ./docs/en
