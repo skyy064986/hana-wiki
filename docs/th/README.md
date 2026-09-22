@@ -1,4 +1,32 @@
-# ยินดีต้อนรับสู่ Hana
+---
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
+# หน้าแรก
 
 Hana คือ Discord App ที่คุยเป็นธรรมชาติ มีสถานะชีวิตประจำวันแบบญี่ปุ่น ช่วยให้เซิร์ฟเวอร์มีบรรยากาศ และมีคำสั่งสนุก ๆ ให้ใช้ร่วมกัน
 
@@ -6,21 +34,21 @@ Hana คือ Discord App ที่คุยเป็นธรรมชาต�
 
 ## เริ่มต้นตรงนี้
 
-- [เริ่มใช้งาน](Start-Here.md)
-- [คำสั่ง AI และการตั้งค่า](Commands/AI-and-Settings.md)
-- [คำสั่งสนุกและ Anime GIF](Commands/Fun-and-Actions.md)
-- [คำสั่งรูปท่องเที่ยวญี่ปุ่น](Commands/Travel-Photo.md)
-- [คำถามที่พบบ่อย](FAQ.md)
+* [เริ่มใช้งาน](Start-Here.md)
+* [คำสั่ง AI และการตั้งค่า](Commands/AI-and-Settings.md)
+* [คำสั่งสนุกและ Anime GIF](Commands/Fun-and-Actions.md)
+* [คำสั่งรูปท่องเที่ยวญี่ปุ่น](Commands/Travel-Photo.md)
+* [คำถามที่พบบ่อย](FAQ.md)
 
 ## Hana ทำอะไรได้บ้าง
 
-| หมวด | ตัวอย่าง |
-| --- | --- |
-| AI Room | ตั้งห้องให้คุยกับ Hana, จดจำการคุยตามการตั้งค่า |
-| Hana Life | ดูสถานะและตารางชีวิตของ Hana ตามเวลาญี่ปุ่น |
-| Fun | Anime GIF, มินิเกม และกิจกรรมในแชต |
-| Travel | รูปอ้างอิงสถานที่ในจังหวัดต่าง ๆ ของญี่ปุ่น |
-| Server tools | ข้อมูลและกฎเซิร์ฟเวอร์สำหรับ Hana Context |
+| หมวด         | ตัวอย่าง                                        |
+| ------------ | ----------------------------------------------- |
+| AI Room      | ตั้งห้องให้คุยกับ Hana, จดจำการคุยตามการตั้งค่า |
+| Hana Life    | ดูสถานะและตารางชีวิตของ Hana ตามเวลาญี่ปุ่น     |
+| Fun          | Anime GIF, มินิเกม และกิจกรรมในแชต              |
+| Travel       | รูปอ้างอิงสถานที่ในจังหวัดต่าง ๆ ของญี่ปุ่น     |
+| Server tools | ข้อมูลและกฎเซิร์ฟเวอร์สำหรับ Hana Context       |
 
 ## ต้องการความช่วยเหลือหรือสนใจ Premium?
 
