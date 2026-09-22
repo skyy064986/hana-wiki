@@ -35,11 +35,11 @@ Hana は自然に会話でき、日本の暮らしに合わせたステータス
 
 ## まずはこちら
 
-* [はじめに](Start-Here.md)
-* [AI と設定](Commands/AI-and-Settings.md)
-* [Fun と Anime GIF コマンド](Commands/Fun-and-Actions.md)
-* [日本の旅行写真](Commands/Travel-Photo.md)
-* [よくある質問](FAQ.md)
+* [はじめに](start-here.md)
+* [AI と設定](komando/ai-and-settings.md)
+* [Fun と Anime GIF コマンド](komando/fun-and-actions.md)
+* [日本の旅行写真](komando/travel-photo.md)
+* [よくある質問](faq.md)
 
 ## Hana にできること
 
