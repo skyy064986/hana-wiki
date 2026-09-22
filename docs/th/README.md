@@ -34,11 +34,11 @@ Hana คือ Discord App ที่คุยเป็นธรรมชาต�
 
 ## เริ่มต้นตรงนี้
 
-* [เริ่มใช้งาน](Start-Here.md)
-* [คำสั่ง AI และการตั้งค่า](Commands/AI-and-Settings.md)
-* [คำสั่งสนุกและ Anime GIF](Commands/Fun-and-Actions.md)
-* [คำสั่งรูปท่องเที่ยวญี่ปุ่น](Commands/Travel-Photo.md)
-* [คำถามที่พบบ่อย](FAQ.md)
+* [เริ่มใช้งาน](start-here.md)
+* [คำสั่ง AI และการตั้งค่า](undefined/ai-and-settings.md)
+* [คำสั่งสนุกและ Anime GIF](undefined/fun-and-actions.md)
+* [คำสั่งรูปท่องเที่ยวญี่ปุ่น](undefined/travel-photo.md)
+* [คำถามที่พบบ่อย](faq.md)
 
 ## Hana ทำอะไรได้บ้าง
 
