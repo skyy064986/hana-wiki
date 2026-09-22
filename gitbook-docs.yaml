@@ -11,3 +11,10 @@ site:
       content:
         directory: ./test
         language: en
+    - type: space
+      key: space-1
+      title: API Reference
+      path: api-reference
+      draft: true
+      content:
+        directory: ./api-reference
