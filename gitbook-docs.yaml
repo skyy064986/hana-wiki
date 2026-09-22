@@ -4,9 +4,9 @@ site:
   structure:
     - type: space
       key: space-1
-      title: Untitled
-      path: untitled
+      title: Hana Wiki — ไทย
+      path: hana
       default: true
       content:
-        directory: null
-        language: en
+        directory: ./docs/th
+        language: th
