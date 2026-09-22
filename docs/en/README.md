@@ -35,11 +35,11 @@ Hana is a Discord App that chats naturally, has a Japanese daily-life status, an
 
 ## Start here
 
-* [Get started](Start-Here.md)
-* [AI and settings](Commands/AI-and-Settings.md)
-* [Fun and Anime GIF commands](Commands/Fun-and-Actions.md)
-* [Japan travel photos](Commands/Travel-Photo.md)
-* [Frequently asked questions](FAQ.md)
+* [Get started](start-here.md)
+* [AI and settings](commands/ai-and-settings.md)
+* [Fun and Anime GIF commands](commands/fun-and-actions.md)
+* [Japan travel photos](commands/travel-photo.md)
+* [Frequently asked questions](faq.md)
 
 ## What Hana can do
 
