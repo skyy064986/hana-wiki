@@ -17,3 +17,10 @@ site:
       draft: true
       content:
         directory: ./docs/en
+    - type: space
+      key: space-3
+      title: Hana Wiki — 日本語
+      path: hana-wiki-ri-ben-yu
+      draft: true
+      content:
+        directory: ./hana-wiki-ri-ben-yu
