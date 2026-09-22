@@ -3,14 +3,6 @@ site:
   title: project Hana Docs
   structure:
     - type: space
-      key: space-2
-      title: test
-      path: test
-      draft: true
-      content:
-        directory: null
-        language: en
-    - type: space
       key: space-1
       title: Untitled
       path: untitled
