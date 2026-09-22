@@ -9,3 +9,10 @@ site:
       default: true
       content:
         directory: ./untitled
+    - type: space
+      key: space-2
+      title: test
+      path: test
+      draft: true
+      content:
+        directory: ./test
