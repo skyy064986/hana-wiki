@@ -24,4 +24,4 @@ site:
       path: hana-wiki-ri-ben-yu
       draft: true
       content:
-        directory: ./hana-wiki-ri-ben-yu
+        directory: ./docs/ja
