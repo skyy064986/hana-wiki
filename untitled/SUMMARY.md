@@ -1,1 +1,15 @@
 # Table of contents
+
+* [Home](README.md)
+* [Start Here](start-here.md)
+* [Commands](commands/README.md)
+  * [Premium](commands/premium.md)
+  * [Travel Photo](commands/travel-photo.md)
+  * [Fun and Actions](commands/fun-and-actions.md)
+  * [AI and Settings](commands/ai-and-settings.md)
+* [Server-Owner](server-owner/README.md)
+  * [RoomAI and Permissions](server-owner/roomai-and-permissions.md)
+* [FAQ](faq.md)
+* [Memory and Relationship](memory-and-relationship.md)
+* [Changelog](changelog.md)
+* [Privacy and Terms](privacy-and-terms.md)
