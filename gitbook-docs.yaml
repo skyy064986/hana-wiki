@@ -14,6 +14,7 @@ site:
       key: space-2
       title: Hana Wiki — English
       path: hana-wiki-english
+      hidden: true
       content:
         directory: ./docs/en
         language: en
@@ -21,6 +22,5 @@ site:
       key: space-3
       title: Hana Wiki — 日本語
       path: hana-wiki-ri-ben-yu
-      draft: true
       content:
         directory: ./docs/ja
