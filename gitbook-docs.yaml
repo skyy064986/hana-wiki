@@ -17,6 +17,7 @@ site:
       draft: true
       content:
         directory: ./docs/en
+        language: en
     - type: space
       key: space-3
       title: Hana Wiki — 日本語
