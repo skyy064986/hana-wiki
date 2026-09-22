@@ -8,7 +8,7 @@ site:
       path: test
       draft: true
       content:
-        directory: ./test
+        directory: null
         language: en
     - type: space
       key: space-1
@@ -16,5 +16,5 @@ site:
       path: untitled
       default: true
       content:
-        directory: ./untitled
+        directory: null
         language: en
