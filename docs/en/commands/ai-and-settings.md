@@ -1,5 +1,7 @@
 # AI and settings
 
+To create your own roleplay character with personal Gemini keys, see [`/privateai`](private-ai.md).
+
 ## `/statusai`
 
 Shows Hana's current Japan-time activity, part of the day, and Discord status. Some details require Hana Premium.

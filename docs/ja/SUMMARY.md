@@ -4,6 +4,7 @@
 * [はじめに](start-here.md)
 * [コマンド](komando/README.md)
   * [AI と設定](komando/ai-and-settings.md)
+  * [Private AI](komando/private-ai.md)
   * [日本の旅行写真](komando/travel-photo.md)
   * [Fun と Anime GIF](komando/fun-and-actions.md)
   * [Hana Premium](komando/premium.md)

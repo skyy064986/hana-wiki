@@ -4,6 +4,7 @@
 * [เริ่มใช้งาน](start-here.md)
 * [คำสั่ง](undefined/README.md)
   * [AI และการตั้งค่า](undefined/ai-and-settings.md)
+  * [Private AI](undefined/private-ai.md)
   * [รูปท่องเที่ยวญี่ปุ่น](undefined/travel-photo.md)
   * [ความสนุกและ Anime GIF](undefined/fun-and-actions.md)
   * [Hana Premium](undefined/premium.md)

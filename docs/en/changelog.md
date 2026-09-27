@@ -2,6 +2,8 @@
 
 ## Latest
 
+- Added `/privateai` for user-created roleplay characters powered by personal Gemini keys and kept separate from Hana.
+- Added up to 10 encrypted keys, cross-server/DM memory, `*` scene direction, and in-panel data controls.
 - Hana now reads earlier context before interpreting ambiguous messages.
 - Prevented claims that a photo or action was sent without a confirmed system result.
 - Added `/travelphoto` and User Install/DM support.

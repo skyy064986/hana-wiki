@@ -1,5 +1,7 @@
 # AI と設定
 
+自分の Gemini キーでロールプレイキャラクターを作成する場合は、[`/privateai`](private-ai.md) をご覧ください。
+
 ## `/statusai`
 
 日本時間での Hana の現在の行動、時間帯、Discord ステータスを表示します。一部の詳細は Hana Premium の特典です。

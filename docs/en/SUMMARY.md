@@ -4,6 +4,7 @@
 * [Getting started](start-here.md)
 * [Commands](commands/README.md)
   * [AI and settings](commands/ai-and-settings.md)
+  * [Private AI](commands/private-ai.md)
   * [Japan travel photos](commands/travel-photo.md)
   * [Fun and Anime GIFs](commands/fun-and-actions.md)
   * [Hana Premium](commands/premium.md)

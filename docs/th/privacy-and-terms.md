@@ -18,7 +18,13 @@
 - ไม่อ้างว่าได้ส่งรูปหรือทำ action แล้ว หากระบบยังไม่ยืนยันผล
 - ไม่เริ่มบทโรแมนติก และรักษาความสัมพันธ์แบบเพื่อน
 
+ข้อจำกัดความสัมพันธ์แบบเพื่อนข้างต้นเป็นบุคลิกของ Hana ไม่ใช่ตัวละครที่ผู้ใช้สร้างใน `/privateai` แต่ Private AI ยังต้องปฏิบัติตามกฎ Discord กฎหมาย และ Gemini Safety Filter
+
+## Private AI และ API key
+
+ใส่ Gemini API key ได้เฉพาะในแบบฟอร์ม `/privateai` ห้ามส่งในแชตปกติ ระบบเข้ารหัสคีย์ก่อนบันทึกและไม่นำคีย์ใส่ Log หรือไฟล์ Export ข้อมูลตัวละคร ฉาก ประวัติล่าสุด และสรุปความจำจะเก็บข้ามเซิร์ฟเวอร์/DM ภายใต้ Discord User ID เดียวกัน คุณดู ล้าง Export หรือลบทั้งหมดได้จาก Panel
+
 ## เอกสารฉบับเต็ม
 
-- [Terms of Service](https://github.com/skyy064986/hanaTERMS_OF_SERVICE-PRIVACY_POLICY)
-- [Privacy Policy](https://github.com/skyy064986/hanaTERMS_OF_SERVICE-PRIVACY_POLICY)
+- [Terms of Service](https://github.com/skyy064986/hanaTERMS_OF_SERVICE-PRIVACY_POLICY/blob/main/TERMS_OF_SERVICE.md)
+- [Privacy Policy](https://github.com/skyy064986/hanaTERMS_OF_SERVICE-PRIVACY_POLICY/blob/main/PRIVACY_POLICY.md)
