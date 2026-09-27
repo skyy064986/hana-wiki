@@ -6,7 +6,7 @@
 
 1. Run `/privateai` and accept the Gemini Safety notice.
 2. Select **1 · Create character** and enter a name, background, personality, and speaking style.
-3. Select **2 · Add Gemini key** and paste at least one API key.
+3. Select **2 · Add Gemini key** and paste at least one API key. If you do not have one yet, see [How to get a Gemini API key](../guides/get-gemini-api-key.md).
 
 The system validates the key, discovers available models, selects a supported Flash Lite model, and enables Private AI automatically. You do not preconfigure your own name; introduce yourself in the story and let the relationship develop naturally.
 

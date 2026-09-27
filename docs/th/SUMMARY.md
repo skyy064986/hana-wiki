@@ -2,6 +2,7 @@
 
 * [หน้าแรก](README.md)
 * [เริ่มใช้งาน](start-here.md)
+* [วิธีรับ Gemini API key](guides/get-gemini-api-key.md)
 * [คำสั่ง](undefined/README.md)
   * [AI และการตั้งค่า](undefined/ai-and-settings.md)
   * [Private AI](undefined/private-ai.md)

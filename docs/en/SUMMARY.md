@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Getting started](start-here.md)
+* [Get a Gemini API key](guides/get-gemini-api-key.md)
 * [Commands](commands/README.md)
   * [AI and settings](commands/ai-and-settings.md)
   * [Private AI](commands/private-ai.md)

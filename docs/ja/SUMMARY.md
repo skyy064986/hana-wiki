@@ -2,6 +2,7 @@
 
 * [ホーム](README.md)
 * [はじめに](start-here.md)
+* [Gemini API キーの取得方法](guides/get-gemini-api-key.md)
 * [コマンド](komando/README.md)
   * [AI と設定](komando/ai-and-settings.md)
   * [Private AI](komando/private-ai.md)
