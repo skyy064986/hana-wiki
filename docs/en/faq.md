@@ -20,9 +20,9 @@ An administrator must grant Hana `Embed Links` and `Send Messages` in that chann
 
 Not by default. Memory is separated by server, and you must explicitly approve sharing in `/settingai`.
 
-## Why does Hana not message me first?
+## Will Hana randomly tag me first?
 
-You need a score of 100 or more and must enable the option in `/settingai`.
+No. Proactive greetings were removed to avoid disturbing members. Hana responds after you start a conversation or use a command.
 
 ## What languages does Hana support?
 

@@ -1,6 +1,6 @@
 # Private AI
 
-`/privateai` creates a personal roleplay character using your own Gemini API keys. It is separate from Hana's persona, memory, keys, and quota. The character and memory follow your Discord User ID across supported RoomAI servers and DMs without affecting other members.
+`/privateai` creates up to five personal roleplay character slots using your own Gemini API keys. It is separate from Hana's persona, memory, keys, and quota. Your data follows your Discord User ID across supported RoomAI servers and DMs without affecting other members.
 
 ## Quick setup
 
@@ -9,6 +9,13 @@
 3. Select **2 · Add Gemini key** and paste at least one API key. If you do not have one yet, see [How to get a Gemini API key](../guides/get-gemini-api-key.md).
 
 The system validates the key, discovers available models, selects a supported Flash Lite model, and enables Private AI automatically. You do not preconfigure your own name; introduce yourself in the story and let the relationship develop naturally.
+
+## Character slots
+
+- Create up to five characters and switch the active one from **Character slots**.
+- All slots share your Gemini keys and selected model, so keys are entered only once.
+- Character, scene, memory, history, and relationship data stay isolated per slot.
+- Deleting a character requires entering `YES`. Deleting the last slot disables Private AI but preserves the keys and model.
 
 ## Gemini API keys
 
@@ -44,5 +51,30 @@ Never post a key in chat. Enter it only through the panel. A separate Gemini key
 - Current scene, recent context, and long-term memory summary
 - Select, test, or delete Gemini keys and models
 - Export without API keys, clear history, or permanently delete all data
+
+## Private character relationship
+
+Relationship tracking is enabled by default and is evaluated in the same successful Gemini response, without an extra API call:
+
+| Score | Level |
+| --- | --- |
+| 0–50 | Acquaintance |
+| 51–149 | Friend |
+| 150–249 | Close friend |
+| 250+ | Talking stage until dating is accepted |
+| Accepted dating proposal | Partner |
+| Accepted marriage proposal | Married |
+| Married at 2,000 | Life partner |
+
+A normal message adds 1, something the character likes adds 2–3, a dislike adds nothing, and a strong dislike removes 1–2. `*` director commands, duplicate messages, and failed API requests do not add points. If proposals are enabled, a character may ask to date at 500 and may propose marriage after dating at 1,000. Tracking and proposals can be disabled per slot. A disabled relationship keeps its score and is hidden from `/profile`.
+
+## Clear versus reset
+
+- **Clear memory** removes recent history and the long-term summary, but keeps the character, scene, and relationship.
+- **Reset this character** also resets the scene, roleplay/memory settings, history, summary, score, relationship status, and proposal state while preserving the character identity and preferences.
+- **Reset all (keep Gemini)** removes every character slot and disables Private AI while preserving keys and the selected model.
+- **Delete all data** removes characters, memories, relationships, and Gemini keys from active storage.
+
+Private AI uses a local SQLite database with up to three rotating recovery backups. API keys are encrypted with AES-256-GCM before storage.
 
 Gemini applies provider safety filters. Adult sexual content, violence, or other sensitive roleplay may be refused, and Hana does not bypass those controls. Do not submit passwords, addresses, financial or health information, or another person's secrets. See [Privacy and terms](../privacy-and-terms.md).

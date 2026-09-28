@@ -24,7 +24,7 @@ Chat normally in an AI Room. Hana reads the recent context from the same speaker
 
 ## 4. Set your preferences
 
-Use `/settingai` for memory, timezone, reply mentions, personal profile details, and permission for Hana to message first.
+Use `/settingai` for memory, timezone, reply mentions, and personal profile details. Hana does not send unsolicited proactive tags.
 
 ## Use outside a server
 

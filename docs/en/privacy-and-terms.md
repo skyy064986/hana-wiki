@@ -22,7 +22,7 @@ The friends-only relationship above describes Hana, not a character a user creat
 
 ## Private AI and API keys
 
-Enter Gemini API keys only in the `/privateai` form, never in ordinary chat. Keys are encrypted before storage and excluded from ordinary logs and data exports. Character details, scene state, recent history, and the memory summary are shared across supported servers/DMs under the same Discord User ID. The panel lets you view, clear, export, or permanently delete Private AI data.
+Enter Gemini API keys only in the `/privateai` form, never in ordinary chat. Keys are encrypted before storage and excluded from ordinary logs and exports. Up to five slots share keys/model while keeping character, scene, memory, history, and relationship data isolated. Data is stored in local SQLite with up to three rotating recovery backups. The panel lets you view, clear, reset, export, or delete Private AI data. A deleted active record may remain in an older backup until rotation or operator cleanup.
 
 ## Full documents
 

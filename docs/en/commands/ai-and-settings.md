@@ -15,13 +15,10 @@ Your personal control panel; other members cannot see it.
 - Choose memory you approve for cross-server sharing
 - Set your timezone
 - Add, edit, or delete personal profile details
-- Allow Hana to message you first
 
 > Do not enter your address, phone number, password, financial details, or other sensitive data. A nickname, voluntary age, or a basic important date is enough.
 
-### Hana messages first
-
-This is off by default and becomes available at a relationship score of 100 in that server. When enabled, Hana may tag you after some time apart, never repeatedly. Turn it off any time in `/settingai`.
+Hana does not send unsolicited proactive tags. That option was removed to avoid disturbing members.
 
 ## `/profile`
 
